@@ -3,10 +3,10 @@
 
 # 🎯 Questions Explored
 
-- What are the most prevalent categories?
-- Who is/are the most prolific directors for each country?
-- Most common cast member?
-- Amount of releases by year split by TV Show or Movie
+- What are the most prevalent categories? !
+- Who is/are the most prolific directors for each country? !
+- Most common cast member? !
+- Amount of releases by year split by TV Show or Movie !
 - How long are the movies on average, by genre or by country?
 
 📈 Key findings or insights
