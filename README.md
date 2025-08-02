@@ -8,7 +8,9 @@
 - Most common cast member?
 - Amount of releases by year split by TV Show or Movie
 - How long are the movies on average, by genre or by country?
+
 📈 Key findings or insights
+
 1. What are the most prevalent categories?
 
 📂 Instructions to run the notebook (install, open, etc.)
