@@ -12,6 +12,8 @@
 📈 Key findings or insights
 
 1. What are the most prevalent categories?
+Looks like 'International' is the most prevalent category overall with 4103 entries. Followed by 'Dramas' at 3190.
+
 
 📂 Instructions to run the notebook (install, open, etc.)
 
