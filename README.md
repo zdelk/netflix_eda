@@ -19,11 +19,11 @@ This repository is a Exploratory Data Analysis for a Netflix dataset found on Ka
 - Jupyter Notebook
 
 ## 📁 Project Structure
-├── Netflix_EDA.ipynb # Main analysis notebook
-├── data/
-│ └── netflix_titles.csv # Source dataset
-├── figures/ # Exported plots
-└── README.md # Project overview
+├── Netflix_EDA.ipynb # Main analysis notebook  
+├── data/  
+│ └── netflix_titles.csv # Source dataset  
+├── figures/ # Exported plots  
+└── README.md # Project overview  
 
 
 ## 📈 Summary of Findings
